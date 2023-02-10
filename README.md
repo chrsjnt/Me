@@ -27,3 +27,11 @@ Realistically, problems are **unavoidable**, thus we should react normally to th
 ![20230201202621](https://user-images.githubusercontent.com/122881597/218115292-f9c27725-2b22-40fd-8a83-bf857f5c66e9.png)
 
 ![20230201201158](https://user-images.githubusercontent.com/122881597/218115360-3effb189-7466-4f5a-84e8-ea12dd8d3f48.png)
+
+## **Games that I play**
+
+- Genshin Impact
+- Valorant
+- Roblox
+- osu!
+- Overwatch 2
