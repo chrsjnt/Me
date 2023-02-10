@@ -14,4 +14,6 @@ Realistically, problems are **unadvoidable**, thus we should react normally to t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EFkyxzJtiv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## **A playlist of songs I often listen to**
+## **Playlist**
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0SBbDSbaPhmqA374W89EBw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
