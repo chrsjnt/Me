@@ -18,7 +18,7 @@ Realistically, problems are **unavoidable**, thus we should react normally to th
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0SBbDSbaPhmqA374W89EBw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-## Photos I took in the game 'Genshin Impact'
+## Some scenery photos that I took in the game 'Genshin Impact'
 
 ![20230131220407](https://user-images.githubusercontent.com/122881597/218114904-d21af728-39fa-4090-89a1-fe64bd2bab10.png)
 
