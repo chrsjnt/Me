@@ -4,4 +4,4 @@
 
 LG **Arrowsmith**
 
-https://youtu.be/EFkyxzJtiv4
+[A video about Stoicism](https://youtu.be/EFkyxzJtiv4)
