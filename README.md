@@ -8,7 +8,7 @@ LG **Arrowsmith**
 
 **Stoicism** will teach us how to keep our **composure** in times of difficulties. We don't need to react negatively to failures, but rather work with them for our improvement in the future.
 
-Realistically, problems are **unadvoidable**, thus we should react normally to them and find a solution instead.
+Realistically, problems are **unavoidable**, thus we should react normally to them and find a solution instead.
 
 ### **Here is a video about Stoicism:**
 
@@ -17,3 +17,4 @@ Realistically, problems are **unadvoidable**, thus we should react normally to t
 ## **Playlist**
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0SBbDSbaPhmqA374W89EBw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
