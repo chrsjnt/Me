@@ -6,7 +6,7 @@ LG **Arrowsmith**
 
 ## **Stoicism**
 
-**Stoicism** will teach us how to keep our **composure** in times of difficulties. We don't need to react negatively to failures, but rather work with them for our improvement in the future.
+**Stoicism** will teach us how to keep our **composure** in times of difficulties. We should not react negatively to our failures, but rather work with them for our improvement in the future.
 
 Realistically, problems are **unavoidable**, thus we should react normally to them and find a solution instead.
 
