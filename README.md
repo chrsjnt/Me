@@ -22,3 +22,8 @@ Realistically, problems are **unavoidable**, thus we should react normally to th
 
 ![20230131220407](https://user-images.githubusercontent.com/122881597/218114904-d21af728-39fa-4090-89a1-fe64bd2bab10.png)
 
+![20230201200734](https://user-images.githubusercontent.com/122881597/218115178-f2b959d2-7ee1-413d-a938-427e37600dc6.png)
+
+![20230201202621](https://user-images.githubusercontent.com/122881597/218115292-f9c27725-2b22-40fd-8a83-bf857f5c66e9.png)
+
+![20230201201158](https://user-images.githubusercontent.com/122881597/218115360-3effb189-7466-4f5a-84e8-ea12dd8d3f48.png)
