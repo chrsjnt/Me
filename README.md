@@ -18,3 +18,8 @@ Realistically, problems are **unavoidable**, thus we should react normally to th
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0SBbDSbaPhmqA374W89EBw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+## Photos I took in the game 'Genshin Impact'
+
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="file:///E:/Genshin%20Impact/GenshinImpact/Genshin%20Impact%20game/ScreenShot/20230201202621.png">
+
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="file:///E:/Genshin%20Impact/GenshinImpact/Genshin%20Impact%20game/ScreenShot/20230131220407.png">
