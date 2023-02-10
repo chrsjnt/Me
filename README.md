@@ -20,3 +20,5 @@ Realistically, problems are **unavoidable**, thus we should react normally to th
 
 ## Photos I took in the game 'Genshin Impact'
 
+![20230131220407](https://user-images.githubusercontent.com/122881597/218114904-d21af728-39fa-4090-89a1-fe64bd2bab10.png)
+
